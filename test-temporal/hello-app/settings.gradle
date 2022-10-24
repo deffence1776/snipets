@@ -1,0 +1,5 @@
+rootProject.name = 'hello-app'
+include 'clients'
+include 'workers'
+include 'lib'
+
